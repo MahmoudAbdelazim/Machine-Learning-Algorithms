@@ -33,6 +33,6 @@ political party of US congress members based on their votes in multiple features
 A support vector machine model in Python from scrach that predicts whether a person has a heart disease, 
 using only NumPy and Pandas.
 
-### 6= [Convolutional Neural Network](https://github.com/MahmoudAbdelazim/Machine-Learning-Algorithms/tree/main/6-%20Convolutional%20Neural%20Network)
+### 6- [Convolutional Neural Network](https://github.com/MahmoudAbdelazim/Machine-Learning-Algorithms/tree/main/6-%20Convolutional%20Neural%20Network)
 
 A MNIST dataset classifier model in Python that classifies handwritten-digit images to their corresponding digits using different number of convolutional layers and pooling layers, built using TensorFlow Keras.
