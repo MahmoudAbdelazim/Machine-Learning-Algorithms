@@ -1,0 +1,175 @@
+
+-----------------------------
+Training with 30.0% of data, random_state = 1
+Accuracy: 0.930921052631579
+Tree Depth: 6
+
+-----------------------------
+Training with 30.0% of data, random_state = 2
+Accuracy: 0.930921052631579
+Tree Depth: 6
+
+-----------------------------
+Training with 30.0% of data, random_state = 3
+Accuracy: 0.930921052631579
+Tree Depth: 6
+
+-----------------------------
+Training with 30.0% of data, random_state = 4
+Accuracy: 0.9342105263157895
+Tree Depth: 10
+
+-----------------------------
+Training with 30.0% of data, random_state = 5
+Accuracy: 0.9506578947368421
+Tree Depth: 18
+
+-----------------------------
+When Training with 30.0% of data: 
+The Min Accuracy is: 0.930921052631579
+The Max Accuracy is: 0.9506578947368421
+The Mean Accuracy is: 0.9355263157894738
+The Min Tree Depth is: 6
+The Max Tree Depth is: 18
+The Mean Tree Depth is: 9.2
+=================================================
+
+-----------------------------
+Training with 40.0% of data, random_state = 1
+Accuracy: 0.9461538461538461
+Tree Depth: 8
+
+-----------------------------
+Training with 40.0% of data, random_state = 2
+Accuracy: 0.9307692307692308
+Tree Depth: 7
+
+-----------------------------
+Training with 40.0% of data, random_state = 3
+Accuracy: 0.9307692307692308
+Tree Depth: 6
+
+-----------------------------
+Training with 40.0% of data, random_state = 4
+Accuracy: 0.9423076923076923
+Tree Depth: 18
+
+-----------------------------
+Training with 40.0% of data, random_state = 5
+Accuracy: 0.9423076923076923
+Tree Depth: 18
+
+-----------------------------
+When Training with 40.0% of data: 
+The Min Accuracy is: 0.9307692307692308
+The Max Accuracy is: 0.9461538461538461
+The Mean Accuracy is: 0.9384615384615385
+The Min Tree Depth is: 6
+The Max Tree Depth is: 18
+The Mean Tree Depth is: 11.4
+=================================================
+
+-----------------------------
+Training with 50.0% of data, random_state = 1
+Accuracy: 0.9400921658986175
+Tree Depth: 7
+
+-----------------------------
+Training with 50.0% of data, random_state = 2
+Accuracy: 0.9216589861751152
+Tree Depth: 18
+
+-----------------------------
+Training with 50.0% of data, random_state = 3
+Accuracy: 0.8986175115207373
+Tree Depth: 8
+
+-----------------------------
+Training with 50.0% of data, random_state = 4
+Accuracy: 0.9585253456221198
+Tree Depth: 18
+
+-----------------------------
+Training with 50.0% of data, random_state = 5
+Accuracy: 0.9170506912442397
+Tree Depth: 18
+
+-----------------------------
+When Training with 50.0% of data: 
+The Min Accuracy is: 0.8986175115207373
+The Max Accuracy is: 0.9585253456221198
+The Mean Accuracy is: 0.9271889400921658
+The Min Tree Depth is: 7
+The Max Tree Depth is: 18
+The Mean Tree Depth is: 13.8
+=================================================
+
+-----------------------------
+Training with 60.0% of data, random_state = 1
+Accuracy: 0.9367816091954023
+Tree Depth: 7
+
+-----------------------------
+Training with 60.0% of data, random_state = 2
+Accuracy: 0.9367816091954023
+Tree Depth: 18
+
+-----------------------------
+Training with 60.0% of data, random_state = 3
+Accuracy: 0.9022988505747126
+Tree Depth: 8
+
+-----------------------------
+Training with 60.0% of data, random_state = 4
+Accuracy: 0.9597701149425287
+Tree Depth: 18
+
+-----------------------------
+Training with 60.0% of data, random_state = 5
+Accuracy: 0.9080459770114943
+Tree Depth: 18
+
+-----------------------------
+When Training with 60.0% of data: 
+The Min Accuracy is: 0.9022988505747126
+The Max Accuracy is: 0.9597701149425287
+The Mean Accuracy is: 0.9287356321839081
+The Min Tree Depth is: 7
+The Max Tree Depth is: 18
+The Mean Tree Depth is: 13.8
+=================================================
+
+-----------------------------
+Training with 70.0% of data, random_state = 1
+Accuracy: 0.9615384615384616
+Tree Depth: 18
+
+-----------------------------
+Training with 70.0% of data, random_state = 2
+Accuracy: 0.9230769230769231
+Tree Depth: 18
+
+-----------------------------
+Training with 70.0% of data, random_state = 3
+Accuracy: 0.8846153846153846
+Tree Depth: 8
+
+-----------------------------
+Training with 70.0% of data, random_state = 4
+Accuracy: 0.9615384615384616
+Tree Depth: 18
+
+-----------------------------
+Training with 70.0% of data, random_state = 5
+Accuracy: 0.9230769230769231
+Tree Depth: 18
+
+-----------------------------
+When Training with 70.0% of data: 
+The Min Accuracy is: 0.8846153846153846
+The Max Accuracy is: 0.9615384615384616
+The Mean Accuracy is: 0.9307692307692308
+The Min Tree Depth is: 8
+The Max Tree Depth is: 18
+The Mean Tree Depth is: 16.0
+=================================================

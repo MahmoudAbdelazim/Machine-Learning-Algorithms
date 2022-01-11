@@ -1,0 +1,162 @@
+
+-----------------------------
+Training with 30.0% of data, random_state = 1
+Accuracy: 0.8113207547169812
+
+-----------------------------
+Training with 30.0% of data, random_state = 2
+Accuracy: 0.7971698113207547
+
+-----------------------------
+Training with 30.0% of data, random_state = 3
+Accuracy: 0.8018867924528302
+
+-----------------------------
+Training with 30.0% of data, random_state = 4
+Accuracy: 0.8160377358490566
+
+-----------------------------
+Training with 30.0% of data, random_state = 5
+Accuracy: 0.7830188679245284
+
+-----------------------------
+When Training with 30.0% of data: 
+The Min Accuracy is: 0.7830188679245284
+The Max Accuracy is: 0.8160377358490566
+The Mean Accuracy is: 0.8018867924528301
+=================================================
+
+-----------------------------
+Training with 40.0% of data, random_state = 1
+Accuracy: 0.8626373626373627
+
+-----------------------------
+Training with 40.0% of data, random_state = 2
+Accuracy: 0.8021978021978022
+
+-----------------------------
+Training with 40.0% of data, random_state = 3
+Accuracy: 0.7912087912087912
+
+-----------------------------
+Training with 40.0% of data, random_state = 4
+Accuracy: 0.8241758241758241
+
+-----------------------------
+Training with 40.0% of data, random_state = 5
+Accuracy: 0.7857142857142857
+
+-----------------------------
+When Training with 40.0% of data: 
+The Min Accuracy is: 0.7857142857142857
+The Max Accuracy is: 0.8626373626373627
+The Mean Accuracy is: 0.8131868131868132
+=================================================
+
+-----------------------------
+Training with 50.0% of data, random_state = 1
+Accuracy: 0.8807947019867549
+
+-----------------------------
+Training with 50.0% of data, random_state = 2
+Accuracy: 0.7947019867549668
+
+-----------------------------
+Training with 50.0% of data, random_state = 3
+Accuracy: 0.7682119205298014
+
+-----------------------------
+Training with 50.0% of data, random_state = 4
+Accuracy: 0.7947019867549668
+
+-----------------------------
+Training with 50.0% of data, random_state = 5
+Accuracy: 0.8079470198675497
+
+-----------------------------
+When Training with 50.0% of data: 
+The Min Accuracy is: 0.7682119205298014
+The Max Accuracy is: 0.8807947019867549
+The Mean Accuracy is: 0.8092715231788079
+=================================================
+
+-----------------------------
+Training with 60.0% of data, random_state = 1
+Accuracy: 0.8842975206611571
+
+-----------------------------
+Training with 60.0% of data, random_state = 2
+Accuracy: 0.8099173553719008
+
+-----------------------------
+Training with 60.0% of data, random_state = 3
+Accuracy: 0.8099173553719008
+
+-----------------------------
+Training with 60.0% of data, random_state = 4
+Accuracy: 0.768595041322314
+
+-----------------------------
+Training with 60.0% of data, random_state = 5
+Accuracy: 0.8181818181818182
+
+-----------------------------
+When Training with 60.0% of data: 
+The Min Accuracy is: 0.768595041322314
+The Max Accuracy is: 0.8842975206611571
+The Mean Accuracy is: 0.8181818181818181
+=================================================
+
+-----------------------------
+Training with 70.0% of data, random_state = 1
+Accuracy: 0.8681318681318682
+
+-----------------------------
+Training with 70.0% of data, random_state = 2
+Accuracy: 0.8461538461538461
+
+-----------------------------
+Training with 70.0% of data, random_state = 3
+Accuracy: 0.8021978021978022
+
+-----------------------------
+Training with 70.0% of data, random_state = 4
+Accuracy: 0.8131868131868132
+
+-----------------------------
+Training with 70.0% of data, random_state = 5
+Accuracy: 0.8681318681318682
+
+-----------------------------
+When Training with 70.0% of data: 
+The Min Accuracy is: 0.8021978021978022
+The Max Accuracy is: 0.8681318681318682
+The Mean Accuracy is: 0.8395604395604395
+=================================================
+
+-----------------------------
+Training with 80.0% of data, random_state = 1
+Accuracy: 0.9344262295081968
+
+-----------------------------
+Training with 80.0% of data, random_state = 2
+Accuracy: 0.9016393442622951
+
+-----------------------------
+Training with 80.0% of data, random_state = 3
+Accuracy: 0.819672131147541
+
+-----------------------------
+Training with 80.0% of data, random_state = 4
+Accuracy: 0.819672131147541
+
+-----------------------------
+Training with 80.0% of data, random_state = 5
+Accuracy: 0.8524590163934426
+
+-----------------------------
+When Training with 80.0% of data: 
+The Min Accuracy is: 0.819672131147541
+The Max Accuracy is: 0.9344262295081968
+The Mean Accuracy is: 0.8655737704918032
+=================================================
